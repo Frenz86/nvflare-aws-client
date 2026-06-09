@@ -1,0 +1,11 @@
+.env
+__pycache__/
+
+split_images/
+
+*.zip
+
+/downloads
+
+site-1/
+site-2/
